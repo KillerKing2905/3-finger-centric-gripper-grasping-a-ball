@@ -1,0 +1,1 @@
+# 3-finger-centric-gripper-grasping-a-ball
